@@ -1,1 +1,0 @@
-[{"currentInd":"0","latitude":"1.15","longitude":"1.15","severity":"5","type":"1","email":"test"}]
